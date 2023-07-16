@@ -18,7 +18,9 @@
 
 ***
 
-This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling. Our best model can achieve **89.4%** Top-1 accuracy on Kinetics-400!
+This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling. 
+
+Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1 Acc. on Something-Something V1, **74.6%** Top-1 Acc. on Something-Something V2!
 
 
 <details ><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
