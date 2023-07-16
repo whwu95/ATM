@@ -18,7 +18,7 @@
 
 ***
 
-This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling.
+This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling. Our best model can achieve **89.4%** Top-1 accuracy on Kinetics-400!
 
 
 <details ><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
@@ -47,7 +47,7 @@ This is the official implementation of our **ATM** (Arithmetic Temporal Module),
 
 
 ## 📣 News
-- [ ] Our best model can achieve **89.4%** Top-1 accuracy on Kinetics-400! All models, configs and training codes will be released soon.
+- [ ] All models and training codes will be released soon.
 -  `July 14, 2023`: 🎉Our **ATM** has been accepted by **ICCV-2023**.
 
 
