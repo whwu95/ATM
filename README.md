@@ -47,7 +47,7 @@ This is the official implementation of our **ATM** (Arithmetic Temporal Module),
 
 
 ## 📣 News
-- [ ] All models and training codes will be released soon.
+- [ ] `TODO`: All models and training codes will be released soon.
 -  `July 14, 2023`: 🎉Our **ATM** has been accepted by **ICCV-2023**.
 
 
