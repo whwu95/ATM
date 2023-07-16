@@ -21,7 +21,7 @@
 This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling.
 
 
-<details ><summary>📣 I also have other video recognition projects that may interest you ✨. </summary><p>
+<details ><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
