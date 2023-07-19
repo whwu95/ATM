@@ -17,6 +17,9 @@
 
 
 ***
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-can-simple-arithmetic-operations-do-for/action-recognition-in-videos-on-something-1)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something-1?p=what-can-simple-arithmetic-operations-do-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-can-simple-arithmetic-operations-do-for/action-classification-on-kinetics-400)](https://paperswithcode.com/sota/action-classification-on-kinetics-400?p=what-can-simple-arithmetic-operations-do-for)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/what-can-simple-arithmetic-operations-do-for/action-recognition-in-videos-on-something)](https://paperswithcode.com/sota/action-recognition-in-videos-on-something?p=what-can-simple-arithmetic-operations-do-for)
 
 This is the official implementation of our **ATM** (Arithmetic Temporal Module), which explores the potential of four simple arithmetic operations for temporal modeling. 
 
