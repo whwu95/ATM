@@ -5,7 +5,7 @@
 <h2>【ICCV'2023】What Can Simple Arithmetic Operations Do for Temporal Modeling? </h2>
 
 [![Conference](http://img.shields.io/badge/ICCV-2023-f9f107.svg)](https://iccv2023.thecvf.com/)
-<!-- [![Paper](http://img.shields.io/badge/Paper-arxiv.2301.00182-b31b1b.svg)](https://arxiv.org/abs/2301.00182) -->
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2307.08908-b31b1b.svg)](https://arxiv.org/abs/2307.08908)
 
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Yuxin Song]()<sup>2</sup>, [Zhun Sun]()<sup>2</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>3</sup>, [Chang Xu](http://changxu.xyz/)<sup>1</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>3,1</sup>
