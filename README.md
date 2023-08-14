@@ -26,7 +26,7 @@ This is the official implementation of our **ATM** (Arithmetic Temporal Module),
 Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1 Acc. on Something-Something V1, **74.6%** Top-1 Acc. on Something-Something V2!
 
 
-<details ><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
+<details open><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
