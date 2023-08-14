@@ -30,13 +30,15 @@ Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
-> Accepted by AAAI 2023 | [[Text4Vis Code]](https://github.com/whwu95/Text4Vis)<br>
-> Wenhao Wu, Zhun Sun, Wanli Ouyang
+> Wenhao Wu, Zhun Sun, Wanli Ouyang <br>
+> Accepted by AAAI 2023 & IJCV 2023 | [[Text4Vis Code]](https://github.com/whwu95/Text4Vis)
+
 
 
 > [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
-> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)<br>
-> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang
+> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
+> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)
+
 
 </p></details>
 
@@ -52,7 +54,7 @@ Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1
 
 
 ## 📣 News
-- [ ] `TODO`: All models and training codes will be released soon.
+- [ ] `TODO`: All models and training codes will be released in September! 
 -  `July 14, 2023`: 🎉Our **ATM** has been accepted by **ICCV-2023**.
 
 
