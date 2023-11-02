@@ -54,7 +54,7 @@ Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1
 
 
 ## 📣 News
-- [ ] `TODO`: I'm really sorry for my procrastination😭. Recently, I have been busy with CVPR and journal revisions😫. I expect to release the code after the CVPR submission deadline.
+- [ ]  I apologize for my procrastination😭. Lately, I have been occupied with CVPR, journal revisions, and reviewing multiple journal papers😫. I expect to release the code after the CVPR supplementary deadline.
 -  `July 14, 2023`: 🎉Our **ATM** has been accepted by **ICCV-2023**.
 
 
