@@ -66,6 +66,16 @@ Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1
 The key motivation behind ATM is to explore the potential of simple arithmetic operations to capture auxiliary temporal clues that may be embedded in current video features, without relying on the elaborate design. The ATM can be integrated into both vanilla CNN backbone (e.g., ResNet) and Vision Transformer (e.g., ViT) for video action recognition.
 
 
+## 🚀 Training & Testing
+We offer training and testing scripts for Kinetics-400, Sth-Sth V1, and Sth-Sth V2. Please refer to the [*script*](https://github.com/whwu95/ATM/tree/main/scripts) folder for details. For example, you can run:
+
+```sh
+# Train the 8 Frames ViT-B/32 model on Sth-Sth v1.
+sh scripts/ssv1/train_base.sh 
+
+# Test the 8 Frames ViT-B/32 model on Sth-Sth v1.
+sh scripts/ssv1/test_base_f8.sh
+```
 
 
 
