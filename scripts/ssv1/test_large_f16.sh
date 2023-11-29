@@ -4,7 +4,7 @@
 OUTPUT_DIR='./output/test'
 DATA_PATH='/bpfs/v2_mnt/VIS/wuwenhao/20bn-something-something-v1'
 
-MODEL_PATH='../ATM_ICCV23_CODE_MODELS/output/ssv1/large_f16_bs6_atm14/checkpoint-best/mp_rank_00_model_states.pt'
+MODEL_PATH='output/ssv1/large_f16_bs6_atm14/checkpoint-best/mp_rank_00_model_states.pt'
 
 MASTER_ADDR='127.0.0.1'
 
