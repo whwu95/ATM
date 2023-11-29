@@ -26,7 +26,16 @@ This is the official implementation of our **ATM** (Arithmetic Temporal Module),
 Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1 Acc. on Something-Something V1, **74.6%** Top-1 Acc. on Something-Something V2!
 
 
-<details open><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
+<details><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
+
+> [**Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning**](https://arxiv.org/abs/2311.15769)<br>
+> Huanjin Yao, Wenhao Wu, Zhiheng Li<br>
+> [[Side4Video Code]](https://github.com/HJYao00/Side4Video)
+
+
+> [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
+> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
+> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
@@ -35,9 +44,6 @@ Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1
 
 
 
-> [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
-> Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
-> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)
 
 
 </p></details>
