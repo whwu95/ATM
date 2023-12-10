@@ -2,10 +2,14 @@
 
 <div align="center">
 
-<h2>【ICCV'2023】What Can Simple Arithmetic Operations Do for Temporal Modeling? </h2>
+
+<h2 align="center"> <a href="https://arxiv.org/abs/2307.08908">【ICCV'2023】What Can Simple Arithmetic Operations Do for Temporal Modeling?</a></h2>
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
+
+
 
 [![Conference](http://img.shields.io/badge/ICCV-2023-f9f107.svg)](https://iccv2023.thecvf.com/)
-[![Paper](http://img.shields.io/badge/Paper-arxiv.2307.08908-b31b1b.svg)](https://arxiv.org/abs/2307.08908)
+[![Paper](https://img.shields.io/badge/Arxiv-2311.15732-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2307.08908)
 
 
 [Wenhao Wu](https://whwu95.github.io/)<sup>1,2</sup>, [Yuxin Song]()<sup>2</sup>, [Zhun Sun]()<sup>2</sup>, [Jingdong Wang](https://jingdongwang2017.github.io/)<sup>3</sup>, [Chang Xu](http://changxu.xyz/)<sup>1</sup>, [Wanli Ouyang](https://wlouyang.github.io/)<sup>3,1</sup>
@@ -26,21 +30,22 @@ This is the official implementation of our **ATM** (Arithmetic Temporal Module),
 Our best model can achieve **89.4%** Top-1 Acc. on Kinetics-400, **65.6%** Top-1 Acc. on Something-Something V1, **74.6%** Top-1 Acc. on Something-Something V2!
 
 
-<details><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
+<details open><summary>🔥 I also have other recent video recognition projects that may interest you ✨. </summary><p>
 
 > [**Side4Video: Spatial-Temporal Side Network for Memory-Efficient Image-to-Video Transfer Learning**](https://arxiv.org/abs/2311.15769)<br>
 > Huanjin Yao, Wenhao Wu, Zhiheng Li<br>
-> [[Side4Video Code]](https://github.com/HJYao00/Side4Video)
+> [![arXiv](https://img.shields.io/badge/Arxiv-2311.15769-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.15769) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/HJYao00/Side4Video) 
+
 
 
 > [**Bidirectional Cross-Modal Knowledge Exploration for Video Recognition with Pre-trained Vision-Language Models**](https://arxiv.org/abs/2301.00182)<br>
 > Wenhao Wu, Xiaohan Wang, Haipeng Luo, Jingdong Wang, Yi Yang, Wanli Ouyang <br>
-> Accepted by CVPR 2023 | [[BIKE Code]](https://github.com/whwu95/BIKE)
+> [![Conference](http://img.shields.io/badge/CVPR-2023-f9f107.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Bidirectional_Cross-Modal_Knowledge_Exploration_for_Video_Recognition_With_Pre-Trained_Vision-Language_CVPR_2023_paper.html) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/BIKE) 
 
 
 > [**Revisiting Classifier: Transferring Vision-Language Models for Video Recognition**](https://arxiv.org/abs/2207.01297)<br>
 > Wenhao Wu, Zhun Sun, Wanli Ouyang <br>
-> Accepted by AAAI 2023 & IJCV 2023 | [[Text4Vis Code]](https://github.com/whwu95/Text4Vis)
+> [![Conference](http://img.shields.io/badge/AAAI-2023-f9f107.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/25386/25158) [![Journal](http://img.shields.io/badge/IJCV-2023-Bf107.svg)](https://link.springer.com/article/10.1007/s11263-023-01876-w) [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/whwu95/Text4Vis) 
 
 
 
